@@ -6,6 +6,7 @@ public class DevTestClass {
         System.out.println("DevTestClass2");
         System.out.println("Added feature changes");
         System.out.println("Added in master branch");
+        System.out.println("Added line in local/feature/kuldeep1");
 
     }
 }
